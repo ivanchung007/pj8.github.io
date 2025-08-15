@@ -104,7 +104,7 @@
 </description>
         </item>
         <item>
-        <title>Archives</title>
+        <title>存档</title>
         <link>http://localhost:1313/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
@@ -479,21 +479,22 @@ $$</description>
 </description>
         </item>
         <item>
-        <title>Search</title>
-        <link>http://localhost:1313/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/search/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>关于</title>
         <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <description>&lt;p&gt;只是一个小小的破站，记录一下好用的软件和技术文档。
+黑过本站的大哥加油，已经换Hugo加Github，试试能不能留下你的足迹。&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>http://localhost:1313/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/search/</guid>
+        <description></description>
         </item>
         
     </channel>
