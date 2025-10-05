@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>汉化 on 破解吧</title>
+        <link>http://localhost:1313/categories/%E6%B1%89%E5%8C%96/</link>
+        <description>Recent content in 汉化 on 破解吧</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>破解吧</copyright>
+        <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%B1%89%E5%8C%96/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>github desktop汉化</title>
+        <link>http://localhost:1313/p/github-desktop%E6%B1%89%E5%8C%96/</link>
+        <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/github-desktop%E6%B1%89%E5%8C%96/</guid>
+        <description>&lt;p&gt;本仓库为GitHubDesktop汉化工具。
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/Logan950918/GithubDesktopZh-CN?tab=readme-ov-file&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Logan950918/GithubDesktopZh-CN?tab=readme-ov-file&lt;/a&gt;
+GitHubDesktop官网：https://desktop.github.com&lt;/p&gt;
+&lt;p&gt;注：遇到汉化失败，重试一下子。&lt;/p&gt;
+&lt;p&gt;意：请一定保持Github Desktop版本与本汉化工具版本对应，否则汉化后Github Desktop可能会打不开。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pj8.cn/soft/GithubDesktop%e6%b1%89%e5%8c%96%e5%b7%a5%e5%85%b7.7z&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;软件下载&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
